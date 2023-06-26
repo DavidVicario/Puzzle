@@ -218,5 +218,4 @@ public class MainActivity extends AppCompatActivity {
         TextView txtContador = findViewById(R.id.contador);
         txtContador.setText(String.valueOf(contadorMovimientos));
     }
-
 }
